@@ -1,6 +1,6 @@
 
 
-# **Unit Converter **
+# Unit Converter 
 
 A simple and visually appealing **Unit Converter** application that converts between various units such as kilogram, gram, millimeter, centimeter, milliliter, liter, seconds, minutes, and hours. The project features a **dark theme** and a **colorful background animation** that makes the conversion process more interactive and visually engaging.
 
@@ -113,7 +113,7 @@ You can customize the units, the colors, or even add more unit conversions by mo
 
 - **Kyash**
 - **Email**: yashthetopslugger@gmail.com 
-- **GitHub**: [https://github.com/YashKolte](https://github.com/YashKolte)
+- **GitHub**: [https://github.com/YashKolte](https://github.com/Yashkolte1))
 
 ---
 
