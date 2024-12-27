@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <title>Unit Converter</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Unit Converter</h1>
+
+        <div class="unit-converter">
+            <h2>Convert Units</h2>
+            <input id="value" type="number" placeholder="Enter value" required>
+            
+            <select id="unit-from">
+                <option value="kg">Kilogram (kg)</option>
+                <option value="gm">Gram (gm)</option>
+                <option value="mm">Millimeter (mm)</option>
+                <option value="cm">Centimeter (cm)</option>
+                <option value="ml">Milliliter (ml)</option>
+                <option value="l">Liter (l)</option>
+                <option value="sec">Seconds (sec)</option>
+                <option value="min">Minutes (min)</option>
+                <option value="hr">Hours (hr)</option>
+            </select>
+
+            <select id="unit-to">
+                <option value="kg">Kilogram (kg)</option>
+                <option value="gm">Gram (gm)</option>
+                <option value="mm">Millimeter (mm)</option>
+                <option value="cm">Centimeter (cm)</option>
+                <option value="ml">Milliliter (ml)</option>
+                <option value="l">Liter (l)</option>
+                <option value="sec">Seconds (sec)</option>
+                <option value="min">Minutes (min)</option>
+                <option value="hr">Hours (hr)</option>
+            </select>
+            
+            <button onclick="convertUnits()">Convert</button>
+
+            <div class="result" id="result">Result will appear here...</div>
+        </div>
+
+        <footer>
+            <p>&copy; 2024 Kyash. All Rights Reserved.</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
