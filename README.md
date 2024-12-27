@@ -27,7 +27,7 @@ A simple and visually appealing **Unit Converter** application that converts bet
 
 ## **Preview**
 
-![Unit Converter Preview](https://example.com/preview-image.png)  
+![Unit Converter Preview](https://github.com/Yashkolte1/Unit-Converter/blob/main/unit%20converter.jpg?raw=true)  
 
 ---
 
